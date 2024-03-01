@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<a href='https://imgur.com/a/w4jasKR'></a>
+<a href='https://imgur.com/a/w4jasKR'>Dallas Volunteer Board</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Scrnli  
